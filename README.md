@@ -22,6 +22,8 @@ Tech: Java, MySQL
 
 **Enhancement Plan and Code Review**
 
+[Initial Code Review](https://youtu.be/TPt_CZDBrgQ)
+
 For the capstone of my Computer Science Degree, I chose to focus on enhancing this Inventory Tracker application. Originally, the app used SQLite databases to track items entered by users. There was registration and login functionality, but it didn't do much, as every user was able to view the entirety of the item database. The databases being SQLite also meant that they were tied to the device running the app.
 
 **Enhancement One: Software Engineering**
